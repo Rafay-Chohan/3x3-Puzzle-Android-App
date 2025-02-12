@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3x3 Puzzle</string>
+    <string name="btnLoadImage">Load Image</string>
+    <string name="btnReset">Reset Image</string>
+    <string name="btnShuffle">Shuffle Image</string>
+    <string name="Title">3 x 3 Puzzle</string>
+</resources>
